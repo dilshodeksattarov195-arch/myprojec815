@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcetch",
+        "uuid": 3470270,
+        "checksum": "0xsq3r"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
